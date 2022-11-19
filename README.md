@@ -2,7 +2,9 @@
 
 -------------------------------
 
-I'm Adrien, Web Developer, ex Growth Manager and CEO of my company ($1M+ in revenue, $300k raised, fond of building meaningful and high-quality products).
+I'm Adrien, Web Developer, ex Growth Manager and CEO of my company ($1M+ in revenue, $300k raised).
+
+I love building meaningful and high-quality products.
 
 <h2>:wrench: I'm building with:</h2>
 
