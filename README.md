@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi I'm Adrien 👋
 
 -------------------------------
 
-I'm Adrien, Web Developer, ex Growth Manager and CEO of my company ($1M+ in revenue, $300k raised).
+I'm a Web Developer, ex Growth Manager and CEO of my company ($1M+ in revenue, $300k raised).
 
 I love building meaningful and high-quality products.
 
