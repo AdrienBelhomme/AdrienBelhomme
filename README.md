@@ -9,7 +9,11 @@ I love building meaningful and high-quality products.
 <h2>Wher to find me</h2>
 
 <a href="https://twitter.com/MrBelhomme" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/e7a865c510a0785222dc9ee55b590d905abb4261bb2b6f948b6da72d2ad31279/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d74686169616e6562726167612d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f74686169616e6562726167612f" />
+  Twitter
+  </a>
+  
+  <a href="https://www.linkedin.com/in/adrienbelhomme" rel="nofollow">
+  Twitter
   </a>
 
 <h2>:wrench: I'm building with:</h2>
