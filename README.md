@@ -13,7 +13,7 @@ I love building meaningful and high-quality products.
   </a>
   
   <a href="https://www.linkedin.com/in/adrienbelhomme" rel="nofollow">
-  Twitter
+  Linkedin
   </a>
 
 <h2>:wrench: I'm building with:</h2>
