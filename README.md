@@ -16,7 +16,7 @@ I love building meaningful and high-quality products.
   Linkedin
   </a>
 
-<h2>My last projects</h2>
+<h2>My latest projects</h2>
 
 <h4><a href="https://adrien-clone-spotify.netlify.app/" rel="nofollow">Spotify clone</a></h4>
 <p>Using React, Redux w/ Redux Toolkit, Material UI (MUI) and Shazam API</p>
