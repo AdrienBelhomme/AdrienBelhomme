@@ -18,6 +18,10 @@ I love building meaningful and high-quality products.
 
 <h2>My latest projects</h2>
 
+<h4><a href="https://web3-car-rent.vercel.app/car-rent" rel="nofollow">Car Rental App</a></h4>
+<p>Using Next, React Context, Tailwind, Cloudinary API, Next API (NodeJS), MongoDB, Next-Auth</p>
+<p><a href="https://github.com/AdrienBelhomme/CarRent" rel="nofollow">Repo here</a></p>
+
 <h4><a href="https://adrien-clone-spotify.netlify.app/" rel="nofollow">Spotify clone</a></h4>
 <p>Using React, Redux w/ Redux Toolkit, Material UI (MUI) and Shazam API</p>
 <p><a href="https://github.com/AdrienBelhomme/spotify-clone" rel="nofollow">Repo here</a></p>
