@@ -16,7 +16,7 @@ I love building meaningful and high-quality products.
   Linkedin
   </a>
 
-<h2>My latest projects</h2>
+<h2>Last projects</h2>
 
 <h4><a href="https://web3-car-rent.vercel.app/car-rent" rel="nofollow">Car Rental App</a></h4>
 <p>Using Next, React Context, Tailwind, Cloudinary API, Next API (NodeJS), MongoDB, Next-Auth</p>
